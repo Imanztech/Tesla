@@ -6,4 +6,7 @@ echo "deshane"
 echo "oliver"
 echo "felix"
 echo "idu"
-
+ech0 " bola"
+echo "ben"
+echo "chima"
+echo "harry"
